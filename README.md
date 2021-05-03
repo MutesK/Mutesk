@@ -13,3 +13,10 @@ Here are some ideas to get you started:
   + Web Frontend, Backend
   + Computer Graphics And Engines
   + TCP/IP Network
+
+
+### Machine Learning
++ Using Language : Python ( [Study AI](https://github.com/MutesK/StudyAI) )
+
+### Algorithm Study
++ Using Language : C++ ( [Link To Study Organization](https://github.com/Researching-Algorithms-For-Us) )
