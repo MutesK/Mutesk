@@ -9,8 +9,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-  + Smilegate Entertainment Crossfire 2
 - 🌱 I’m currently learning ...
   + Machine Learning
   + Web Frontend, Backend
